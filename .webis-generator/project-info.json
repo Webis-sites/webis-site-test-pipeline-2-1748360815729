@@ -1,8 +1,22 @@
 {
   "projectName": "test-pipeline-2-1994",
   "businessName": "Test Pipeline 2",
-  "created": "2025-05-27T16:06:36.014Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "Testing pipeline functionality",
+  "created": "2025-05-27T16:07:04.733Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-test-pipeline-2-1748360815729",
+  "formData": {
+    "businessName": "Test Pipeline 2",
+    "businessType": "technology",
+    "industry": "software",
+    "description": "Testing pipeline functionality",
+    "primaryColor": "#2563eb",
+    "secondaryColor": "#1e40af",
+    "features": [
+      "modern-design"
+    ],
+    "designStyles": [
+      "minimal"
+    ]
+  }
 }
