@@ -1,8 +1,66 @@
 {
-  "projectName": "test-pipeline-2-1994",
-  "businessName": "Test Pipeline 2",
-  "created": "2025-05-27T16:06:36.014Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-05-27T16:08:05.080Z",
+  "status": {
+    "totalComponents": 9,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "Modern, minimal navigation bar with smooth scroll to sections and mobile-responsive menu"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Dynamic hero section showcasing the pipeline technology with animated visual elements"
+    },
+    {
+      "name": "FeaturesGrid",
+      "type": "features",
+      "status": "pending",
+      "description": "Interactive feature showcase with hover effects and technical specifications"
+    },
+    {
+      "name": "ProcessFlow",
+      "type": "process",
+      "status": "pending",
+      "description": "Visual pipeline process demonstration with interactive steps"
+    },
+    {
+      "name": "IntegrationShowcase",
+      "type": "integration",
+      "status": "pending",
+      "description": "Technology stack and integration capabilities display"
+    },
+    {
+      "name": "MetricsDisplay",
+      "type": "metrics",
+      "status": "pending",
+      "description": "Real-time performance metrics and statistics visualization"
+    },
+    {
+      "name": "CodePreview",
+      "type": "code",
+      "status": "pending",
+      "description": "Interactive code examples and API documentation preview"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "Conversion-focused call-to-action with multiple engagement options"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Minimal footer with essential links and technical resources"
+    }
+  ],
+  "repoName": "webis-site-test-pipeline-2-1748360815729"
 }
