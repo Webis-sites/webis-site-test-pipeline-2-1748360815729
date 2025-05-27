@@ -1,0 +1,7 @@
+
+    # robots.txt for Test Pipeline 2
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://test-pipeline-2.com/sitemap.xml
